@@ -7,4 +7,5 @@
   2. Migrations
   3. Test
   - truffle-config.js file
-- [] Edit the Truffle configuration file to set you Truffle environments
+- [] Edit the Truffle configuration file to set you Truffle environment
+- [] Install OpenZeppelin library for security checks
